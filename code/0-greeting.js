@@ -3,11 +3,13 @@
 // ####################################
 
 function greeting() {
-  let username = prompt("What's your name?")
+  let Answer = prompt("What's your favorite subject")
 
-  alert('Hello ' + username)
+  alert('Nice! you like'  + Answer)
 }
 
 function joke() {
-  // write the code for your joke here.
-}
+  alert ('Why was Cinderall so bad at soccer?')
+  alert ('Because she always run away from the ball')
+} 
+                     
